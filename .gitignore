@@ -1,0 +1,15 @@
+*.pyc
+*.swp
+*.zip
+*.rar
+*.via
+*.tmp
+*.err
+*.ini
+*.tar
+settings.py
+mail.py
+zabbix_api.py
+ansicmd.py
+tmp.txt
+manage.py
