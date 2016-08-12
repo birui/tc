@@ -17,9 +17,14 @@
                             </header>
 
                                 <div class="post-description">
+
                                     <p>
-                                        {{ post.content }}
+
+                                        {{ post.content|safe}}
+
                                     </p>
+
+
                                 </div>
                         </section>
                     </div><!-- /.blog-post -->
